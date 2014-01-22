@@ -1,6 +1,8 @@
 {
   "name": "angularmeta",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "author": "Jason Pescione <jay@moonfuse.co>",
+  "description": "A title tag & meta description implementation for Angular JS apps",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
