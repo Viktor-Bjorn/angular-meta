@@ -13,7 +13,7 @@ A title tag & meta description implementation for Angular JS apps.
         <title data-ng-bind="meta.title"></title>
         <meta name="description" content="{{meta.description}}">
 
-*If you bootstrap your application using the ng-app directive on the `<body>` tag, you must move the ng-app directive to the `<html>` tag to expand the scope the the documents `<head>`, or bootstrap manually*
+*If you bootstrap your application using the ng-app directive on the `<body>` tag, you must move the ng-app directive to the `<html>` tag to expand the scope of the documents `<head>`, or bootstrap manually*
 
 
 ## Usage
